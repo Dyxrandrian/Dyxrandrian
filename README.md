@@ -6,4 +6,4 @@
 -🔧 Always improving my skills in backend architecture, React, and data management
 -📈 Building a personal project on wealth management with a focus on possession and value calculations
 -😄 Pronouns: Dyx
--🌍 Aspiring to be a full-stack developer
+-🌍 Aspiring to be a data analyst
